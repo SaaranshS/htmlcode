@@ -1,4 +1,4 @@
-Our Funky HTML Page
+My Funky HTML Page
 <h1>This is a level 1 heading</h1>
 <h2>This is a level 2 heading</h2>
 <h3>This is a level 3 heading</h3>
